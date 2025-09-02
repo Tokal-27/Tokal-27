@@ -34,5 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tokal-27&theme=dark" alt="tokal-27" /></p>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
+
 
