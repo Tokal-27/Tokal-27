@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **omar.tokal2020@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tokal/](https://www.linkedin.com/in/tokal/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/tokal/]([https://www.linkedin.com/in/tokal/](https://www.linkedin.com/in/tokal/))
 
 - ⚡ Fun fact **🐳 Docker wasn’t originally made for containers! Docker started in 2013 as a side project by a company called dotCloud, which was a Platform-as-a-Service (PaaS) provider. The container tech behind Docker was just an internal tool—but when they open-sourced it, it exploded in popularity and eventually transformed the company’s entire focus! Now, Docker is one of the most recognized tools in DevOps and containerization. 🐳🔥**
 
