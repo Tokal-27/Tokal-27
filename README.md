@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Tokal-27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br> DevOps is the cultural shift from 'That's not my problem' to 'We own this, together' — from the first line of code to the last happy user    <br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tokal-27&limit=5&theme=dark&combine_all_yearly_contributions=true)
