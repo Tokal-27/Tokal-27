@@ -16,7 +16,7 @@
 <br> DevOps is the cultural shift from 'That's not my problem' to 'We own this, together' — from the first line of code to the last happy user    <br>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tokal-27&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github.com/Tokal-27/MLOps-Maestro-Enterprise-ML-Deployment-Suite)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tokal-27&icon=0&color=4)](https://visitcount.itsvg.in)
