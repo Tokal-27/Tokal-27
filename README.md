@@ -1,5 +1,27 @@
+<h1 align="center">Hi there, I'm Omar! 👋</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tokal-27&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Cloud+DevOps+Engineer;AWS+%26+Linux+Enthusiast;Automating+all+the+things!" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
 # 💫 About Me:
-<br>🔭 I’m currently working on Cloud technologies<br><br>🌱 I’m currently learning Cloud DevOps Framwork<br><br>👨‍💻 All of my projects are available at https://github.com/Tokal-27<br><br>📝 I regularly write articles on https://www.linkedin.com/in/tokal/<br><br>💬 Ask me about AWS<br><br>📫 How to reach me omar.tokal2020@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/tokal/<br><br>⚡ Fun fact 🐳 Docker wasn’t originally made for containers! Docker started in 2013 as a side project by a company called dotCloud, which was a Platform-as-a-Service (PaaS) provider. The container tech behind Docker was just an internal tool—but when they open-sourced it, it exploded in popularity and eventually transformed the company’s entire focus! Now, Docker is one of the most recognized tools in DevOps and containerization. 🐳🔥<br>
+<br>🔭 I’m currently working on Cloud technologies
+<br>🌱 I’m currently learning Cloud DevOps Frameworks
+<br>👨‍💻 All of my projects are available at https://github.com/Tokal-27
+<br>📝 I regularly write articles on https://www.linkedin.com/in/tokal/
+<br>💬 Ask me about **AWS, DevOps, and Automation**
+<br>📫 How to reach me: **omar.tokal2020@gmail.com**
+<br>📄 Know about my experiences https://www.linkedin.com/in/tokal/
+<br>⚡ Fun fact: 🐳 Docker wasn’t originally made for containers! Docker started in 2013 as a side project by a company called dotCloud, which was a Platform-as-a-Service (PaaS) provider. The container tech behind Docker was just an internal tool—but when they open-sourced it, it exploded in popularity and eventually transformed the company’s entire focus! Now, Docker is one of the most recognized tools in DevOps and containerization. 🐳🔥
+<br>
 
 ---
 
@@ -9,17 +31,23 @@
 ---
 
 # 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tokal-27&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Tokal-27&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Tokal-27 Trophies" />
+  </a>
+</p>
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats & Coding Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tokal-27&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Tokal-27&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tokal-27&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tokal-27&theme=dark&layout=compact" alt="WakaTime Stats" />
 </p>
 
 ### 📈 Activity Graph
@@ -27,29 +55,35 @@
 
 ---
 
-# 🎮 GitHub Plays & Activity
+# 🎮 GitHub Plays & Visuals
 
 ### 🐍 Contribution Snake
 *(A hungry snake eating my contribution graph!)*
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tokal-27/Tokal-27/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tokal-27/Tokal-27/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tokal-27/Tokal-27/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tokal-27/Tokal-27/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tokal-27/Tokal-27/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tokal-27/Tokal-27/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+### 🏙️ 3D Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tokal-27/Tokal-27/main/profile-3d-contrib/profile-night-view.svg" alt="3D Grid" />
+</p>
 
 ---
 
 # 🚀 Extras
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tokal-27&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Tokal-27&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
 
 ---
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Tokal-27&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</p>
