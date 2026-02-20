@@ -73,6 +73,33 @@
   <img src="https://raw.githubusercontent.com/Tokal-27/Tokal-27/output/github-contribution-grid-snake.svg" />
 </p>
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tokal-27&theme=onedark&no-frame=true&margin-w=8" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tokal-27&show_icons=true&theme=onedark&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Tokal-27&theme=onedark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tokal-27&layout=compact&theme=onedark&hide_border=true&cache_seconds=86400" />
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tokal-27&theme=github-compact&hide_border=true" />
+</p>
+
 ---
 
 # ⚡ Fun Fact
