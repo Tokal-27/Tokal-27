@@ -37,13 +37,10 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tokal-27&show_icons=true&theme=radical" alt="Tokal-27 Stats" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Tokal-27&theme=radical&no-frame=true&no-bg=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tokal-27&layout=compact&theme=radical" alt="Tokal-27 Top Langs" />
-</p>
+# 🏆 GitHub Trophies
+[![Tokal-27 Trophies](https://github-profile-trophy.vercel.app/?username=Tokal-27&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 # 📊 GitHub Stats & Coding Activity
