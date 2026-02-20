@@ -37,6 +37,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tokal-27&show_icons=true&theme=radical" alt="Tokal-27 Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tokal-27&layout=compact&theme=radical" alt="Tokal-27 Top Langs" />
+</p>
 ---
 
 # 📊 GitHub Stats & Coding Activity
